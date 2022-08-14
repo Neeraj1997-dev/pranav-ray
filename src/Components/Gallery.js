@@ -1,5 +1,9 @@
 export const Images = [
     {
+        original: 'https://res.cloudinary.com/dmlfy0hjh/image/upload/v1660486279/Pranav%20RaY/WhatsApp_Image_2022-07-30_at_12.00.53_PM_zvikem.jpg',
+        thumbnail: 'https://res.cloudinary.com/dmlfy0hjh/image/upload/v1660486279/Pranav%20RaY/WhatsApp_Image_2022-07-30_at_12.00.53_PM_zvikem.jpg'
+    },
+    {
         original: 'https://res.cloudinary.com/dmlfy0hjh/image/upload/v1660366677/Pranav%20RaY/pernav_stg4da.jpg',
         thumbnail: 'https://res.cloudinary.com/dmlfy0hjh/image/upload/v1660366677/Pranav%20RaY/pernav_stg4da.jpg'
     },
@@ -20,4 +24,3 @@ export const Images = [
         thumbnail: 'https://res.cloudinary.com/dmlfy0hjh/image/upload/v1660484672/Pranav%20RaY/WhatsApp_Image_2022-07-24_at_12.05.56_PM_mmazbd.jpg'
     }
 ]
-   
